@@ -1,0 +1,27 @@
+LAB ONLY FOR OUR CORUSE
+tuseday morning
+monday afternoon
+
+REPORT
+-Every thing has to have reason - write it to the report
+-how to make a python script based on a kuka source and data file
+-describe the relationship between gcode and KRL format
+
+TODO NEXT WEEK
+-print the 3d model
+-mount the 3d Model
+-try tvc with our model and safe the values
+-calibrate task frame
+-run some vase 3D printing
+---implement that G0 stops extrusion until G1 command is seen (there are that lines in middle of vase)
+---try to get rid of the extra filament before startign the print
+---communication with extruder
+---generating file to usb stick
+-find the optimal speed
+-find the response time after what time the extruder stops extruding
+-find the ideal break between each layer
+-voluntary: try the inverse kinematics in cube.py (Lukas)
+
+TODO:
+-vypouštět filament před spuštěním
+-vypnout 

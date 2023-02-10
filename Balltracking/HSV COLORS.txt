@@ -1,0 +1,9 @@
+HSV COLORS
+green_lower = (29, 86, 6)
+green_upper = (64, 255, 255)
+yellow_lower = (20, 100, 100)
+yellow_upper = (40, 255, 255)
+dark_red_lower = (0, 180, 150) #bright 160-179? 
+dark_red_upper = (9, 255, 255)
+weird_blue_lower = (90,70,70)
+weird_blue_upper = (100,255,255)
